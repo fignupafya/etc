@@ -1,132 +1,262 @@
 [
-	{
-	  "question": "In what contintent is Indonesia?",
-	  "options": [
-		{
-		  "id": "0",
-		  "options": "A",
-		  "answer": "South America"
-		},
-		{
-		  "id": "1",
-		  "options": "B",
-		  "answer": "Europe"
-		},
-		{
-		  "id": "2",
-		  "options": "C",
-		  "answer": "Asia"
-		},
-		{
-		  "id": "0",
-		  "options": "D",
-		  "answer": "India"
-		}
-	  ],
-	  "correctAnswerIndex": 2
-	},
-	{
-	  "question": "Which continent has the highest population density? ",
-	  "options": [
-		{
-		  "id": "0",
-		  "options": "A",
-		  "answer": "Asia"
-		},
-		{
-		  "id": "1",
-		  "options": "B",
-		  "answer": "South Africa"
-		},
-		{
-		  "id": "2",
-		  "options": "C",
-		  "answer": "Australia"
-		},
-		{
-		  "id": "0",
-		  "options": "D",
-		  "answer": "Antarctica"
-		}
-	  ],
-	  "correctAnswerIndex": 0
-	},
-	{
-	  "question": "what is 5X5",
-	  "options": [
-		{
-		  "id": "0",
-		  "options": "A",
-		  "answer": "20"
-		},
-		{
-		  "id": "1",
-		  "options": "B",
-		  "answer": "25"
-		},
-		{
-		  "id": "2",
-		  "options": "C",
-		  "answer": "10"
-		},
-		{
-		  "id": "0",
-		  "options": "D",
-		  "answer": "30"
-		}
-	  ],
-	  "correctAnswerIndex": 1
-	},
-	{
-	  "question": "what is the square root of 169",
-	  "options": [
-		{
-		  "id": "0",
-		  "options": "A",
-		  "answer": "20"
-		},
-		{
-		  "id": "1",
-		  "options": "B",
-		  "answer": "23"
-		},
-		{
-		  "id": "2",
-		  "options": "C",
-		  "answer": "13"
-		},
-		{
-		  "id": "0",
-		  "options": "D",
-		  "answer": "23"
-		}
-	  ],
-	  "correctAnswerIndex": 2
-	},
-	{
-	  "question": "What is the Smallest Ocean?",
-	  "options": [
-		{
-		  "id": "0",
-		  "options": "A",
-		  "answer": "Atlantic Ocean"
-		},
-		{
-		  "id": "1",
-		  "options": "B",
-		  "answer": "Pacific Ocean"
-		},
-		{
-		  "id": "2",
-		  "options": "C",
-		  "answer": "Arctic Ocean"
-		},
-		{
-		  "id": "0",
-		  "options": "D",
-		  "answer": "Indian Ocean"
-		}
-	  ],
-	  "correctAnswerIndex": 2
-	}
-  ]
+  {
+    "question": "In what contintent is Indonesia?",
+    "options": [
+      {
+        "id": "0",
+        "options": "A",
+        "answer": "South America"
+      },
+      {
+        "id": "1",
+        "options": "B",
+        "answer": "Europe"
+      },
+      {
+        "id": "2",
+        "options": "C",
+        "answer": "Asia"
+      },
+      {
+        "id": "0",
+        "options": "D",
+        "answer": "India"
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which continent has the highest population density? ",
+    "options": [
+      {
+        "id": "0",
+        "options": "A",
+        "answer": "Asia"
+      },
+      {
+        "id": "1",
+        "options": "B",
+        "answer": "South Africa"
+      },
+      {
+        "id": "2",
+        "options": "C",
+        "answer": "Australia"
+      },
+      {
+        "id": "0",
+        "options": "D",
+        "answer": "Antarctica"
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "what is 5X5",
+    "options": [
+      {
+        "id": "0",
+        "options": "A",
+        "answer": "20"
+      },
+      {
+        "id": "1",
+        "options": "B",
+        "answer": "25"
+      },
+      {
+        "id": "2",
+        "options": "C",
+        "answer": "10"
+      },
+      {
+        "id": "0",
+        "options": "D",
+        "answer": "30"
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "what is the square root of 169",
+    "options": [
+      {
+        "id": "0",
+        "options": "A",
+        "answer": "20"
+      },
+      {
+        "id": "1",
+        "options": "B",
+        "answer": "23"
+      },
+      {
+        "id": "2",
+        "options": "C",
+        "answer": "13"
+      },
+      {
+        "id": "0",
+        "options": "D",
+        "answer": "23"
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What is the Smallest Ocean?",
+    "options": [
+      {
+        "id": "0",
+        "options": "A",
+        "answer": "Atlantic Ocean"
+      },
+      {
+        "id": "1",
+        "options": "B",
+        "answer": "Pacific Ocean"
+      },
+      {
+        "id": "2",
+        "options": "C",
+        "answer": "Arctic Ocean"
+      },
+      {
+        "id": "0",
+        "options": "D",
+        "answer": "Indian Ocean"
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      {
+        "id": "0",
+        "options": "A",
+        "answer": "Paris"
+      },
+      {
+        "id": "1",
+        "options": "B",
+        "answer": "Berlin"
+      },
+      {
+        "id": "2",
+        "options": "C",
+        "answer": "Madrid"
+      },
+      {
+        "id": "0",
+        "options": "D",
+        "answer": "Rome"
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      {
+        "id": "0",
+        "options": "A",
+        "answer": "Mars"
+      },
+      {
+        "id": "1",
+        "options": "B",
+        "answer": "Venus"
+      },
+      {
+        "id": "2",
+        "options": "C",
+        "answer": "Jupiter"
+      },
+      {
+        "id": "0",
+        "options": "D",
+        "answer": "Saturn"
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Who was the first president of the United States?",
+    "options": [
+      {
+        "id": "0",
+        "options": "A",
+        "answer": "George Washington"
+      },
+      {
+        "id": "1",
+        "options": "B",
+        "answer": "Thomas Jefferson"
+      },
+      {
+        "id": "2",
+        "options": "C",
+        "answer": "Abraham Lincoln"
+      },
+      {
+        "id": "0",
+        "options": "D",
+        "answer": "John Adams"
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Who wrote the play \"Romeo and Juliet\"?",
+    "options": [
+      {
+        "id": "0",
+        "options": "A",
+        "answer": "Charles Dickens"
+      },
+      {
+        "id": "1",
+        "options": "B",
+        "answer": "Mark Twain"
+      },
+      {
+        "id": "2",
+        "options": "C",
+        "answer": "William Shakespeare"
+      },
+      {
+        "id": "0",
+        "options": "D",
+        "answer": "Jane Austen"
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      {
+        "id": "0",
+        "options": "A",
+        "answer": "Ag"
+      },
+      {
+        "id": "1",
+        "options": "B",
+        "answer": "Fe"
+      },
+      {
+        "id": "2",
+        "options": "C",
+        "answer": "Au"
+      },
+      {
+        "id": "0",
+        "options": "D",
+        "answer": "Cu"
+      }
+    ],
+    "correctAnswerIndex": 2
+  }
+]
